@@ -1,5 +1,4 @@
 def print_full_name(first, last):
-  """Prints a greeting message with the full name."""
   greeting = f"Hello {first} {last}! You just delved into python."
   print(greeting)
 
